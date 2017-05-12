@@ -1,0 +1,23 @@
+{
+  "name": "header_parser_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZdzislawDodo/header-parser-v2.git"
+  },
+  "author": "A11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZdzislawDodo/header-parser-v2/issues"
+  },
+  "homepage": "https://github.com/ZdzislawDodo/header-parser-v2#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
